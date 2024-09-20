@@ -1,0 +1,34 @@
+
+—	java:S116-"URename this field "TOKEN_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¡®Ÿ8ôç€‡¡2J$2d72e192-b183-4799-8932-f3496b97f515
+d
+java:S1170-"!Make this final field static too.(½¡®Ÿ8õç€‡¡2J$e7de9fef-8af4-40a2-9bc3-91c73a49bf44
+\
+java:S1170."!Make this final field static too.(ôÃÌJ$341a4516-f0ea-4022-a547-a592a5604aec
+|
+java:S1874.":Remove this use of "SignatureAlgorithm"; it is deprecated.(ôÃÌ8§İ¤‡¡2J$e0dd569e-7c5e-4a17-acdc-59ce97b2d690
+|
+java:S1874.":Remove this use of "SignatureAlgorithm"; it is deprecated.(ôÃÌ8§İ¤‡¡2J$f9acfe97-9a10-45d0-9139-98f1ca92c6d1
+|
+java:S1874.":Remove this use of "SignatureAlgorithm"; it is deprecated.(ôÃÌ8¨İ¤‡¡2J$c5c0be69-2e2e-4940-b030-8400a69aa225
+z
+java:S1135L"2Complete the task associated to this TODO comment.(ÍÛ¾ğüÿÿÿÿ8ƒè€‡¡2J$7d65f1e4-17d7-4bdd-ae2c-e33e0d946e5f
+
+java:S5361N"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ºØù¸şÿÿÿÿ8’è€‡¡2J$e5cbe3df-fb9e-4121-ae6c-85213537ce69
+x
+java:S1874i"5Remove this use of "setSigningKey"; it is deprecated.(–†ÅÙ8±è€‡¡2J$ee778b4e-f47b-4f1b-ae35-fd6e679bf691
+y
+java:S1874i"6Remove this use of "parseClaimsJws"; it is deprecated.(–†ÅÙ8°è€‡¡2J$78d933f4-f6f7-4fc9-ac92-d089ceafaf64
+|
+java:S1874k":Remove this use of "SignatureException"; it is deprecated.(Í’¡=8„¦‡¡2J$9126af1f-c837-45ea-8471-8ce63d1cb42a
+x
+java:S1874y"5Remove this use of "setSigningKey"; it is deprecated.(³Ğˆ®8±è€‡¡2J$da7ad766-9673-4187-a940-a5da7695d901
+y
+java:S1874y"6Remove this use of "parseClaimsJws"; it is deprecated.(³Ğˆ®8±è€‡¡2J$4b60f18a-dc5f-40e0-866b-4bf36259aa50
+r
+java:S1874y"/Remove this use of "getBody"; it is deprecated.(³Ğˆ®8„‹¦‡¡2J$ec106aa4-a510-4932-85e6-2d4f6bf38e9f
+u
+java:S1135"2Complete the task associated to this TODO comment.(­ĞÄ‘8±è€‡¡2J$6e4d7685-29a6-431e-9409-69bd7d7922ad
+{
+java:S1135€"2Complete the task associated to this TODO comment.(Üæ´ûÿÿÿÿ8‚¬¤‡¡2J$a5aaa60c-bc68-42e1-90e5-ffb57cbc9a6e
+x
+java:S1068."6Remove this unused "signatureAlgorithm" private field.(ôÃÌ8²è€‡¡2J$344516bd-6a45-47a3-932d-dddc5014f494

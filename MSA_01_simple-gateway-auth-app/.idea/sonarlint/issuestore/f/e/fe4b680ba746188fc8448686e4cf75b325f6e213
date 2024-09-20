@@ -1,0 +1,9 @@
+
+ 	java:S116"YRename this field "JWT_SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÇ¼Ôÿÿÿÿÿ8ªŠì‚¡2J$f0baa051-0d81-41cb-8b91-2fc38c1c19ce
+›
+java:S1450"XRemove the "jwtParser" field and declare it as a local variable in the relevant methods.(½»ëÛ8®Šì‚¡2J$0ec65bff-8c90-4779-9e85-b2b2b4ac99d7
+m	java:S1067"+Replace this use of System.out by a logger.(´Ñò¼8ÄŠì‚¡2J$93e8c448-b96d-4e7d-9c58-a7a80100d718
+r	java:S1068"+Replace this use of System.out by a logger.(˜ò«ñùÿÿÿÿ8ÆŠì‚¡2J$638ce3ae-ba5f-450c-8134-863fb70a2fe9
+r	java:S106:"+Replace this use of System.out by a logger.( ’úýúÿÿÿÿ8ÈŠì‚¡2J$d6ee03d8-b7b7-4c2f-9e5b-dce71ae57170
+p
+java:S1068"-Remove this unused "jwtParser" private field.(½»ëÛ8ÒŠì‚¡2J$aa468258-055a-450c-a64b-c167555af1da

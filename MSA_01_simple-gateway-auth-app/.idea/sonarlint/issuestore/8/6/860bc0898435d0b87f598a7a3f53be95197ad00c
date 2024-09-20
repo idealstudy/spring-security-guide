@@ -1,0 +1,25 @@
+
+r	java:S106'"+Replace this use of System.out by a logger.(òÕ›úÿÿÿÿ8ÄŠì‚¡2J$89c081c9-809b-40e1-8816-e350917cecfa
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(îÜ½÷ÿÿÿÿÿ8ã€‚ˆ¡2J$b741846c-45b6-4983-bfaf-bfc6516b493a
+r	java:S106*"+Replace this use of System.out by a logger.(İşÎëşÿÿÿÿ8ÈŠì‚¡2J$0e843f67-32ed-4923-bccd-096626462b2b
+m	java:S1065"+Replace this use of System.out by a logger.(Á¥î8ÇÓ´ˆ¡2J$1459e08e-5549-4a2c-9c73-f0e3955337a6
+ƒ	java:S1256"<This block of commented-out lines of code should be removed.(îÜ½÷ÿÿÿÿÿ8ÈÓ´ˆ¡2J$84699942-3792-4216-a69b-f9f87fdb2b84
+y
+java:S1128"6Remove this unused import 'io.jsonwebtoken.JwtParser'.(Ô‰™ï8€Ÿ‡ˆ¡2J$9e0647d9-2e26-4878-9199-4a22a2ed7c91
+t
+java:S1128"1Remove this unused import 'io.jsonwebtoken.Jwts'.(íğœ±8Ÿ‡ˆ¡2J$0bd0cf2f-6fa7-4c30-a02e-302f6c8923a2
+w
+java:S1128"5Remove this unused import 'io.jsonwebtoken.Jwts.SIG'.(¿ª–{8Ÿ‡ˆ¡2J$0da588c0-ad4a-4e4e-a89a-5bf42058ee1c
+‚
+java:S1128":Remove this unused import 'io.jsonwebtoken.security.Keys'.(û±ÃŸúÿÿÿÿ8Ÿ‡ˆ¡2J$bf0fe909-5ca8-410a-a969-6bdfab8aed68
+…
+java:S1128"=Remove this unused import 'jakarta.annotation.PostConstruct'.(û²ñüşÿÿÿÿ8‚Ÿ‡ˆ¡2J$4bc8d02f-47f9-442c-8ab9-55ad61ba624c
+p
+java:S1128"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ8‚Ÿ‡ˆ¡2J$3e4ca988-f759-4615-ba0d-58f9ef18c848
+n
+java:S1128	"+Remove this unused import 'java.util.Date'.(¸…¼ü8‚Ÿ‡ˆ¡2J$ca823102-f22f-4980-8013-ff8b3eb1f5c0
+v
+java:S1128
+"3Remove this unused import 'javax.crypto.SecretKey'.(±•¸×8ƒŸ‡ˆ¡2J$e955fcd8-907c-4002-a827-9fffaa8084fe
+’
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8ƒŸ‡ˆ¡2J$8000490d-e523-420e-83d3-523cb2d2c621

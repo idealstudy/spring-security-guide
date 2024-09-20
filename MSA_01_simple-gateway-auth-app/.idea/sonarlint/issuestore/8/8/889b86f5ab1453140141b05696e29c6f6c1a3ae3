@@ -1,0 +1,6 @@
+
+™	java:S116"YRename this field "JWT_SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÇ¼ÔÿÿÿÿÿJ$840915db-d92d-4dba-8ca1-3e7d7c1f423d
+q
+java:S11443"0Remove this unused private "createToken" method.(£ÇÕÿÿÿÿÿJ$eace1f0e-9770-4825-ab9b-3107c7c6cf52
+g
+java:S1168."$Return an empty map instead of null.(¥¹ï8Ãû‡¡2J$3336f7e6-ac15-465d-b384-2dd099c08df8
